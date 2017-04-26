@@ -1,2 +1,4 @@
 This is the first line
-Mars is a planet
+Add a new line
+Third line
+Fourth line
